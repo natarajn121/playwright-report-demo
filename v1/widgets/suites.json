@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"9db69e98d7ec2fa0bb6a45133a1a3b82","name":"SerialTest.spec.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}},{"uid":"85533cf51922ba29d5c511adcf54b49b","name":"login.spec.ts","statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1}}]}
