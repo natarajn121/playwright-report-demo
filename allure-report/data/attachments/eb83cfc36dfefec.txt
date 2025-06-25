@@ -1,0 +1,6 @@
+[2025-06-25 15:14:34] [INFO]: New button is clicked
+[2025-06-25 15:14:38] [INFO]: First name is filled as John
+[2025-06-25 15:14:38] [INFO]: Last name is filled as Doe
+[2025-06-25 15:14:38] [INFO]: Phone number filled as 9964383922
+[2025-06-25 15:14:38] [INFO]: Save Button is clicked
+[2025-06-25 15:14:39] [INFO]: New contact created and John Doe is visible
