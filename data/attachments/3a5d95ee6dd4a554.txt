@@ -1,0 +1,5 @@
+[2025-06-25 17:32:42] [INFO]: New button is clicked
+[2025-06-25 17:32:43] [INFO]: First name is filled as John
+[2025-06-25 17:32:43] [INFO]: Last name is filled as Doe
+[2025-06-25 17:32:43] [INFO]: Phone number filled as 9964383922
+[2025-06-25 17:32:44] [INFO]: Save Button is clicked
